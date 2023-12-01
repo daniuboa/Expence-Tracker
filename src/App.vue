@@ -86,5 +86,4 @@
     localStorage.setItem('transactions', JSON.stringify(transactions.value))
   }
 
-  kfjksjf
 </script>
