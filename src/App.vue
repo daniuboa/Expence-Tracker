@@ -85,5 +85,4 @@
   const savedTransactionsToLocalStorage = () => {
     localStorage.setItem('transactions', JSON.stringify(transactions.value))
   }
-
 </script>
